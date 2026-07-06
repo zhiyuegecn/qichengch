@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png" />
+    <meta name="viewport" content="width=device-width" />
+    <title>仙宫云 | GPU 算力租赁 | Xiangongyun.com</title>
+    <link rel="stylesheet" href="/css/all.min.css" />
+    <script type="module" crossorigin src="/assets/index-CGzodSLB.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-fnEGOUpi.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script>
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?6b3ec2d9853cadc4a52ce38c0280da41";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+    </script>
+  </body>
+</html>
